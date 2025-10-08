@@ -22,19 +22,19 @@
 - 과학 컴퓨팅의 근간  
 - `ndarray` 생성과 연산 실습  
 - 필수 NumPy 함수  
-👉 [구글 코랩 실행하기]()
+👉 [구글 코랩 실행하기](https://colab.research.google.com/drive/1l4_CQ77quYZQ6ylr_hE_-qHfdtnPwCpN)
 
 **3장. Pandas로 데이터 자유자재로 다루기**  
 - 데이터 분석의 스위스 아미 나이프  
 - AICE 출제 유형 맞춤 실습  
 - 필수 Pandas 문법 정리  
-👉 [구글 코랩 실행하기]()
+👉 [구글 코랩 실행하기](https://colab.research.google.com/drive/1XcfuJhu2w6jf9ajicDm92ekPsWyrw6SD)
 
 **4장. Matplotlib & Seaborn으로 시각화하기**  
 - 데이터 인사이트 시각화  
 - 시험 유형 중심 그래프 실습  
 - 분석 목적별 그래프 선택법  
-👉 [구글 코랩 실행하기]()
+👉 [구글 코랩 실행하기](https://colab.research.google.com/drive/1fc2EnStErqFmcZKyN8S9yUlYtulXbnIT#scrollTo=rt8FZpqQ-VES)
 
 ---
 
