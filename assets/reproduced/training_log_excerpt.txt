@@ -1,0 +1,3 @@
+Epoch 2/50 | 1/1 batches | loss: 6730.4365 - mse: 6730.4365 - val_loss: 8988.8955 - val_mse: 8988.8955
+Epoch 49/50 | 1/1 batches | loss: 1690.9578 - mse: 1690.9578 - val_loss: 3355.8794 - val_mse: 3355.8794
+Epoch 50/50 | 1/1 batches | loss: 1888.9155 - mse: 1888.9155 - val_loss: 3052.5781 - val_mse: 3052.5781
