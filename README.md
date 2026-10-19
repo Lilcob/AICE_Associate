@@ -18,6 +18,7 @@
 - [추가 설명과 확장 실습](docs/extended_notes.md): category 성능 실험, 체이닝의 중간 표, 표준편차·분산 계산
 - [그림 재현 안내](docs/reproduce_figures.md): 합성 예시 입력, 같은 실행의 학습 로그·곡선
 - [개념도 원본](assets/concepts): 고해상도 PNG와 벡터 SVG·PDF
+- [실제 실행 화면과 예제](docs/screenshots.md): 제1장의 화면을 보고 같은 코드를 직접 실행해보기
 - [개정 내역](docs/changes_2027.md)
 
 ## 원고 구성
